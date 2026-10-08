@@ -52,9 +52,6 @@ With a unique dual background in **Graphic Design** and **Software Engineering**
   - Independently design, code, and deploy production-ready web and mobile ecosystems using **React**, **Angular**, **NestJS**, and **.NET (C#)**.
   - Manage relational (**SQL Server, PostgreSQL, MySQL**) and NoSQL (**MongoDB**) databases, automated deployments, and cloud environments.
 
-- **🔍 Software Quality & Audio Operations @ IDF Brazil Audiovisual** *(Jan 2024 – Feb 2026)*
-  - Quality Control Technician: Conducted rigorous technical evaluations of internal software systems to guarantee stability, security standards, and operational compliance.
-
 ---
 
 ### 💼 Technical Matrix & Capabilities
