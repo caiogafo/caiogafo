@@ -1,73 +1,129 @@
-<div align="center">
-  <!-- Dynamic SVG Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=210&section=header&text=Caio%20Gafo&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Mobile%20Engineer%20•%20Data%20%26%20Automation&descAlignY=58&descSize=18&theme=tokyonight" width="100%"/>
-</div>
+<p align="center">
+  <b><code>Full Stack Developer • Mobile Engineer • Data & Automation Analyst</code></b>
+</p>
 
-<h3 align="center">
-  Crafting resilient mobile apps, robust back-ends & intelligent enterprise automations.
-</h3>
+<h1 align="center">Caio Henrique Lopes Gafo</h1>
+
+<p align="center">
+  📍 São Paulo, Brazil • 🌐 English (Advanced) | Portuguese (Native) | Mandarin (Basic)
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/caio-henrique-lopes-gafo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-caio--henrique--lopes--gafo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:caiogafo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-caiogafo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/caiogafo">
+    <img src="https://img.shields.io/badge/GitHub-caiogafo-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/master/.github/assets/lineBar.png" width="100%" height="6px" />
+</div>
+
+<br/>
+
+### 📌 Professional Summary
+
+Software Engineer, Mobile Developer, and Data & Automation Analyst focused on designing, building, and optimizing high-impact software solutions, robust data pipelines, and enterprise workflow automations. 
+
+With a unique dual background in **Graphic Design** and **Software Engineering**, I combine deep technical architecture (Clean Architecture, MVVM, ETL) with ergonomic, pixel-perfect user experiences across web, mobile, and internal enterprise tooling.
+
 ---
 
-### 👨‍💻 About Me
+### 🔭 Professional Experience & Roles
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="22" height="22" /> **Hi, I'm Caio Gafo!** A Software Developer based in São Paulo, Brazil.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="22" height="22" /> **Full Stack & Mobile:** Specialized in **.NET Core, NestJS, React, Angular**, and native **Android (Kotlin / Jetpack Compose)** as well as **Flutter / React Native**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" height="22" /> **Data & Automation:** Currently architecting enterprise workflows, integrating APIs, and building automated ETL pipelines with **Python, SQL, and n8n**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" height="22" /> **Design-Driven Engineering:** Background in Graphic Design, allowing me to bridge the gap between polished UI/UX aesthetics, Clean Architecture, and high performance.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="22" height="22" /> **Languages:** Portuguese (Native) • English (Advanced).
+- **💼 Data & Automation Analyst @ Sendero Invest** *(Aug 2026 – Present)*
+  - Lead end-to-end management, engineering, and maintenance of enterprise automations, integrating multi-system APIs to eliminate operational bottlenecks using **Python** scripts and **n8n**.
+  - Analyze, sanitize, and model financial and operational datasets to generate strategic decision-making insights.
+  - Architect and maintain real-time automated KPI reporting dashboards with **Power BI** and SQL.
+  - Structure high-performance SQL queries and automated ETL routines for consolidated financial operations.
+
+- **📱 Full Stack Developer @ Crosoften Tecnologia** *(May 2024 – Present)*
+  - Architect and implement full-lifecycle mobile applications with emphasis on native **Android (Kotlin)** and **Jetpack Compose**.
+  - Modernize legacy mobile user interfaces and integrate responsive client apps with distributed backend APIs built on **.NET Core (C#)** and **NestJS**.
+  - Develop and maintain scalable administrative web portals utilizing **TypeScript** and **Angular**.
+  - Maintain hybrid mobile codebases using **Flutter** and **React Native**, enforcing strict **Clean Architecture**, **MVVM**, automated testing, and CI/CD pipelines.
+
+- **💻 Freelance Full Stack Engineer** *(Jan 2023 – Present)*
+  - Independently design, code, and deploy production-ready web and mobile ecosystems using **React**, **Angular**, **NestJS**, and **.NET (C#)**.
+  - Manage relational (**SQL Server, PostgreSQL, MySQL**) and NoSQL (**MongoDB**) databases, automated deployments, and cloud environments.
+
+- **🔍 Software Quality & Audio Operations @ IDF Brazil Audiovisual** *(Jan 2024 – Feb 2026)*
+  - Quality Control Technician: Conducted rigorous technical evaluations of internal software systems to guarantee stability, security standards, and operational compliance.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💼 Technical Matrix & Capabilities
+
+<pre>
+╭─ CORE DOMAINS ─────────────────────────────────────────────────────────────╮
+│ mobile engineering · data pipelines & etl · backend apis · ui/ux systems   │
+╰────────────────────────────────────────────────────────────────────────────╯
+</pre>
+
+| Area | Technologies & Methodologies | Focus & Practical Application |
+| :--- | :--- | :--- |
+| **Mobile** | Kotlin, Jetpack Compose, Coroutines, Flutter, React Native | Native Android development, reactive UIs, Clean Architecture, MVVM, offline persistence. |
+| **Automation & Data** | Python, n8n, SQL, Power BI, REST APIs, Webhooks | Enterprise workflow automation, financial ETL, data wrangling, API orchestration. |
+| **Backend** | C# (.NET Core), NestJS, Node.js, TypeScript | RESTful APIs, microservices, authentication (JWT/RBAC), scalable server-side architecture. |
+| **Frontend** | Angular, React, TypeScript, JavaScript, Tailwind, HTML5/CSS3 | Enterprise admin dashboards, state management, component libraries, responsive SPAs. |
+| **Databases** | PostgreSQL, SQL Server, MySQL, MongoDB | Schema design, relational queries, index optimization, automated data consolidation. |
+| **DevOps & Tooling** | Docker, Git/GitHub, CI/CD, Postman, Linux, Scrum | Containerization, automated workflows, API testing, agile sprint delivery. |
+| **Design & UI/UX** | Figma, Adobe Illustrator, Photoshop, Design Systems | Wireframing, design tokens, UI ergonomics, bridging developer-designer handoffs. |
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<pre>
+Languages    : Python • C# (.NET) • Kotlin • TypeScript • JavaScript • Dart • SQL
+Mobile       : Android Native (Jetpack Compose) • Flutter • React Native
+Backend      : .NET Core • NestJS • Node.js • Express
+Frontend     : Angular • React • Tailwind CSS • HTML5 • CSS3
+Data/Auto    : n8n • Pandas/ETL • Power BI • API Integrations
+Databases    : PostgreSQL • Microsoft SQL Server • MySQL • MongoDB
+DevOps/Tools : Docker • Git • GitHub Actions / CI/CD • Postman • Linux • Figma
+</pre>
+
+<br/>
 
 <div align="center">
-  <!-- Languages & Runtimes -->
-  <p><strong>Languages & Back-End</strong></p>
-  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,kotlin,ts,js,dart,nestjs,nodejs&theme=dark" /><br/><br/>
-
-  <!-- Front-End & Mobile -->
-  <p><strong>Front-End & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,tailwind,html,css&theme=dark" /><br/><br/>
-
-  <!-- Databases, Automation & Tools -->
-  <p><strong>Databases, DevOps & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,kotlin,ts,js,dart,nestjs,nodejs,angular,react,flutter,tailwind,postgres,mysql,mongodb,docker,git,github,figma,postman&theme=dark" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education & Background
 
-<div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=caiogafo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogafo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiogafo&theme=tokyonight&hide_border=true" />
-</div>
+- **B.S. in Systems Analysis and Development** — Universidade Cruzeiro do Sul *(Expected 2026)*
+- **Bachelor's in Graphic Design** — UNIP *(Graduated 2020)*
 
 ---
 
-### 🤝 Let's Connect
+### 📜 Certifications & Specialized Training
 
-Feel free to reach out for collaborations, discussions on software architecture, or career opportunities!
+- 🤖 **Complete AI Specialization** — Udemy *(2026)*
+- 🛡️ **Wi-Fi Hacking for Enterprise** — IBSEC *(2026)*
+- 🔐 **Introduction to Cybersecurity** — Digital Innovation One (D.I.O.) *(2025)*
+- ⚙️ **Backend Developer Immersion** — Alura *(2024)*
+- 📘 **Modern JavaScript & TypeScript** — Udemy *(2022)*
+- 🐍 **Python Programming Bootcamp** — Udemy *(2022)*
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiogafo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogafo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/caio-henrique-lopes-gafo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:caiogafo@gmail.com">
-    <img src="https://img.shields.io/badge/caiogafo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <i>Open for technical discussions, architectural challenges, and high-impact engineering opportunities.</i>
 </p>
